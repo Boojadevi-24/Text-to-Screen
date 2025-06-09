@@ -4,6 +4,13 @@ Text to Screen Project
 Text-to-Screen is a tool that converts input text (e.g., news, press releases, or user-provided content) into engaging multimedia screen content—ideal for video generation, digital signage, or presentation automation.![image](https://github.com/user-attachments/assets/88d91e5a-0087-4461-8b37-aff7f4ac47aa)
 ![image](https://github.com/user-attachments/assets/a6232b26-a1a7-435d-b38a-0a9d3bd7213e)
 ![image](https://github.com/user-attachments/assets/ff697044-2676-4454-b164-c099808579dc)
+![image](https://github.com/user-attachments/assets/74027666-e09e-4b34-82d8-67c5600f1fd0)
+![Uploading image.png…]()
+
+![Uploading image.png…]()
+
+![Uploading image.png…]()
+
 
 ![Uploading image.png…]()
 
